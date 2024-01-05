@@ -1,5 +1,6 @@
 # Local .terraform directories
-**/.terraform/*
+**/terraform/.terraform/*
+**/terraform/linux_amd64
 
 # .tfstate files
 *.tfstate
